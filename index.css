@@ -17,3 +17,9 @@ h1{
     font-family: "Comic Sans MS", serif;
     text-align: center;
 }
+
+.shitc{
+    display: flex;
+    justify-content: center;
+
+}
