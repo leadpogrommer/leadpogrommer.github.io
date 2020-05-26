@@ -1,0 +1,19 @@
+.main-wrapper{
+    min-height: 100vh;
+    max-width: calc(100vw - 200px);
+    background-color: whitesmoke;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+body{
+    background-color: gray;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    /*display: inline-block;*/
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+}
