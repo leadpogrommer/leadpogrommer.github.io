@@ -1,0 +1,4 @@
+[submodule "pages/integral"]
+	path = pages/integral
+	url = https://github.com/leadpogrommer/integral_1_over_x.git
+	branch = master
