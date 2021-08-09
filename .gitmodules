@@ -2,3 +2,6 @@
 	path = pages/integral
 	url = https://github.com/leadpogrommer/integral_1_over_x.git
 	branch = master
+[submodule "pages/tic-tac-toe"]
+	path = pages/tic-tac-toe
+	url = https://github.com/leadpogrommer/my_first_tictactoe.git
